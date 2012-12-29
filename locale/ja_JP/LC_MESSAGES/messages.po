@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HelloWorld\n"
+"POT-Creation-Date: 2012-12-29 10:41+0800\n"
+"PO-Revision-Date: 2012-12-29 10:41+0800\n"
+"Last-Translator: Raul Martinez Jr <juney.m@gmail.com>\n"
+"Language-Team: RACM Solutions <juney.m@gmail.com>\n"
+"Language: japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/juneym/Sites/ubuntu_vbox1/php-gettext-demo\n"
+
+#: /Users/juneym/Sites/ubuntu_vbox1/php-gettext-demo/index.php:8
+msgid "This is an internationalized Language"
+msgstr "これは、国際言語である"
+
+#: /Users/juneym/Sites/ubuntu_vbox1/php-gettext-demo/index.php:10
+msgid "Goodbye!"
+msgstr "さようなら！"
